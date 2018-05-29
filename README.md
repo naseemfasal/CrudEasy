@@ -79,3 +79,7 @@ $where = array('column1' => '1');
 $flag = $this->sql->delete('table_name', $where);     
  ```        
        
+ Feel free to send me an email if you have any problems.
+
+Thanks, - Naseem Fasal naseem at infiyo dot com  /  @naseemfasal        
+       
